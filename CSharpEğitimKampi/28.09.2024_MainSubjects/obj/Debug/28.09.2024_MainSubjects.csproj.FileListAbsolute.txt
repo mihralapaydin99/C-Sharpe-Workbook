@@ -1,0 +1,7 @@
+C:\Users\dell\source\repos\CSharpEğitimKampi\28.09.2024_MainSubjects\bin\Debug\28.09.2024_MainSubjects.exe.config
+C:\Users\dell\source\repos\CSharpEğitimKampi\28.09.2024_MainSubjects\bin\Debug\28.09.2024_MainSubjects.exe
+C:\Users\dell\source\repos\CSharpEğitimKampi\28.09.2024_MainSubjects\bin\Debug\28.09.2024_MainSubjects.pdb
+C:\Users\dell\source\repos\CSharpEğitimKampi\28.09.2024_MainSubjects\obj\Debug\28.09.2024_MainSubjects.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\CSharpEğitimKampi\28.09.2024_MainSubjects\obj\Debug\28.09.2024_MainSubjects.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\CSharpEğitimKampi\28.09.2024_MainSubjects\obj\Debug\28.09.2024_MainSubjects.exe
+C:\Users\dell\source\repos\CSharpEğitimKampi\28.09.2024_MainSubjects\obj\Debug\28.09.2024_MainSubjects.pdb
